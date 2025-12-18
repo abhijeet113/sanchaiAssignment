@@ -1,10 +1,8 @@
 # Sanchai Assignment
 
-> 📌 *Brief one-line description of the project — what it does.*
-
 ## 📖 Overview
 
-Sanchai Assignment is a project built with **llm openrouter fastapi and react** to **<implement weather client using llm>**.  
+Sanchai Assignment is a project built with **llm openrouter fastapi and react** to **implement weather client using llm**.  
 
 
 ## 🧠 Tech Stack
@@ -77,13 +75,7 @@ docker build -t langchain-py310 .
 docker run -p 8000:8000 --env-file .env langchain-py310   
 
 
-🔗 API Endpoints (if applicable)
-Method	Endpoint	Description
-GET	/api/items	List all items
-POST	/api/login	User login
-PUT	/api/update	Update item
-DELETE	/api/delete/:id	Delete item
-🛠 Usage
+
 
 
 
